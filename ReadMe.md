@@ -1,8 +1,5 @@
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*xg5oJLP7HnAhgz--5ozVcg.gif" align="left" height="100" width="" />  
-  
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" height="100" width="200" />
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*xg5oJLP7HnAhgz--5ozVcg.gif" align="center" height="100" width="350" />
 </div>  
   
 
@@ -123,7 +120,7 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=webshubham259&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webshubham259&hide_border=true&layout=compact" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webshubham259&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
