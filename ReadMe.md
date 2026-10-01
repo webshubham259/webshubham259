@@ -98,15 +98,6 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <h2 align="center">⌘ Philosophy</h2>
 
 <p align="center">
-<p align="center">
-  <img src="https://img.shields.io/badge/Philosophy-Build%20systems%20that%20last%2C%20not%20systems%20that%20break-blue?style=for-the-badge&logo=github" alt="Philosophy"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Philosophy-Build%20systems%20that%20last%2C%20not%20systems%20that%20break-blue?style=for-the-badge&logo=github" alt="Philosophy"/>
-</p>
-
-<p align="center">
   <em>"Your infrastructure is either built to last or built to fail. I choose the former....."</em>
   <br/>
   <strong>— Shubham Jangra</strong>
