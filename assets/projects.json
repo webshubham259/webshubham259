@@ -1,0 +1,17 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description (all four of these currently have none set). Setting them on GitHub too is worth doing - it helps anyone browsing your repo list.",
+  "projects": [
+    {
+      "repo": "eureka",
+      "description": "A robust Service Registry and Discovery platform built to handle microservice architecture, enabling seamless backend routing and load balancing."
+    },
+    {
+      "repo": "coolify",
+      "description": "An open-source, self-hostable PaaS (Platform as a Service) solution that simplifies the deployment, automation, and management of applications and databases."
+    },
+    {
+      "repo": "30-Days-of-DS-master",
+      "description": "A structured, 30-day coding challenge repository dedicated to mastering Data Structures and Algorithms through daily problem-solving and clean code implementation."
+    }
+  ]
+}
